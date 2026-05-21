@@ -67,21 +67,51 @@
 # print(10!=10)
 
 
-a=True
-b=False
-print(a and b)
-print(a or b)
-print(not a)
-print(not b)
-print(a and not b)
-print(not a or b)
-print(a or not b)
-print(not a and b)
-print((a and b) or (not a and not b))
-print((a or b) and (not a or not b))
-print((a and not b) or (not a and b))
-print((a or not b) and (not a or b))
-print((a and b) or (a and not b) or (not a and b) or (not a and not b))
-print((a or b) and (a or not b) and (not a or b) and (not a or not b))
+# a=True
+# b=False
+# print(a and b)
+# print(a or b)
+# print(not a)
+# print(not b)
+# print(a and not b)
+# print(not a or b)
+# print(a or not b)
+# print(not a and b)
+# print((a and b) or (not a and not b))
+# print((a or b) and (not a or not b))
+# print((a and not b) or (not a and b))
+# print((a or not b) and (not a or b))
+# print((a and b) or (a and not b) or (not a and b) or (not a and not b))
+# print((a or b) and (a or not b) and (not a or b) and (not a or not b))
 
 
+# a=10
+# b=20
+# if a>b:
+#     print("True")
+# else:
+#     print("False")
+
+# a=10
+# b=20
+# if a>b:
+#     print("True")
+# elif a==b:
+#     print("Equal")
+# elif a<b:
+#     print("True")  
+# else:
+#     print("False")
+
+
+
+# a="1234567890"
+# b="1234"
+# phone=input("enter your phone number: ")
+# otp=input("enter the otp: ")
+# if phone==a and otp==b:
+#     print("Login successful")
+# elif phone==a and otp!=b:
+#     print("Invalid OTP")
+# else:
+#     print("Invalid phone number")
